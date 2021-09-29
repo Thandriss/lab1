@@ -36,7 +36,7 @@
         android:layout_height="0dp"
         android:text="click on it!"
         android:textColor="@color/black"
-        android:textSize="50sp"
+        android:textSize="50dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

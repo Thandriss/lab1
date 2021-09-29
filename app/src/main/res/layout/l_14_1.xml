@@ -27,7 +27,7 @@
         android:layout_height="0dp"
         android:layout_weight="1"
         android:text="click on it!"
-        android:textSize="50sp"
+        android:textSize="50dp"
         android:textColor="@color/black"/>
 
 </LinearLayout>
